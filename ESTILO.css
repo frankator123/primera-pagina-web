@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background-color: #522100;
+	color: white;
+	
+}
+main{	
+	text-align: left;
+	border-style: solid;
+	display: block;	
+}
+.imagenes{
+	width: 300px;
+	height: 400px;
+
+}
+.logo{
+	
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	padding-top: 100px;
+}
+a{
+	font-size: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #cc7a00;
+	color: white;
+	padding: 15px 15px 15px 15px;
+	margin: 10px 10px 10px 10px;
+}
